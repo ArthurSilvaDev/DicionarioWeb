@@ -1,0 +1,32 @@
+body{
+    background-image: url("../img/background.jpg");
+    background-repeat: no-repeat, repeat;
+    background-position: center;
+    background-size: cover;
+    height: 500px;
+}
+.img-titulo{
+    cursor: pointer;
+    width: 100%;
+    margin: auto;
+}
+a{
+    cursor: pointer;
+}
+#palavra{
+    text-transform:uppercase;
+    text-align: center;
+}
+strong{
+    color: red;
+}
+
+#image{
+    max-width: 400px;
+    max-height: 400px;
+    width: 100%;
+}
+
+.menu-text{
+    background-color: rgb(0, 0, 0,0.7);
+}
